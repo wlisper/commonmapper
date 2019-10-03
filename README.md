@@ -1,0 +1,1 @@
+mybatis通用mapper的使用示例工程。
